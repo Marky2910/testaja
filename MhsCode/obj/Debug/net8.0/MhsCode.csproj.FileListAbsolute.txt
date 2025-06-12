@@ -1,0 +1,28 @@
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\bin\Debug\net8.0\MhsCode.exe
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\bin\Debug\net8.0\MhsCode.deps.json
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\bin\Debug\net8.0\MhsCode.runtimeconfig.json
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\bin\Debug\net8.0\MhsCode.dll
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\bin\Debug\net8.0\MhsCode.pdb
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.AssemblyInfoInputs.cache
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.AssemblyInfo.cs
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.csproj.CoreCompileInputs.cache
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.dll
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\refint\MhsCode.dll
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.pdb
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\MhsCode.genruntimeconfig.cache
+C:\Users\User Lab22\Documents\Visual Studio 2022\2281071\MhsCode\obj\Debug\net8.0\ref\MhsCode.dll
+D:\tugas\2281071\MhsCode\bin\Debug\net8.0\MhsCode.exe
+D:\tugas\2281071\MhsCode\bin\Debug\net8.0\MhsCode.deps.json
+D:\tugas\2281071\MhsCode\bin\Debug\net8.0\MhsCode.runtimeconfig.json
+D:\tugas\2281071\MhsCode\bin\Debug\net8.0\MhsCode.dll
+D:\tugas\2281071\MhsCode\bin\Debug\net8.0\MhsCode.pdb
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.AssemblyInfoInputs.cache
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.AssemblyInfo.cs
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.csproj.CoreCompileInputs.cache
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.dll
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\refint\MhsCode.dll
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.pdb
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\MhsCode.genruntimeconfig.cache
+D:\tugas\2281071\MhsCode\obj\Debug\net8.0\ref\MhsCode.dll
